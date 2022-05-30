@@ -7,7 +7,7 @@ Progress of Content
 S.No.   |         Name            | Editor assigned   | Edited | Status/Comments   | Conclusion
 :------:|:----------------------- |:-----------------:|:------:|:-----------------:|:------------:
 |1. | ART of Android  |  | No | Not Reviewed | No |
-|2. | Data Science in Biology: Personalized Medicine |  | No  | Not Reviewed | No |
+|2. | Data Science in Biology: Personalized Medicine | Shivpujan | No  | Not Reviewed | No |
 |3. | Digital Jwellery |  | No | No Reviewed | No |
 |4. | Virtual Reality: The Future |  | No | Not Reviewed | No |
 |5. | Top Future Technologies 2022 |  | No | Not Reviewed | No  |
