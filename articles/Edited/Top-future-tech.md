@@ -33,7 +33,7 @@ Once planted in a person it will allow them to perform activities that were prev
 
 ![NeckTransmitter](https://github.com/shivpujan12/Srijan-2022/blob/main/imgs/NeckTransmitter.png)
 
-![SmartWatch](https://github.com/shivpujan12/Srijan-2022/blob/main/imgs/SmartWatch.jpeg)
+![SmartWatch](https://github.com/shivpujan12/Srijan-2022/blob/main/imgs/SmartWatch.jpg)
 
 ## AI or Artificial Intelligence
 
