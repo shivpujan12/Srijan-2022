@@ -4,7 +4,7 @@
 
 | Question   | Answer                                                            |
 | ---------- | ----------------------------------------------------------------- |
-| Writer     | |
+| Writer     | Subham Sharma|
 | Editor     | Ritik Soni |
 | Status     | Edited |
 | Plagiarism | [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
