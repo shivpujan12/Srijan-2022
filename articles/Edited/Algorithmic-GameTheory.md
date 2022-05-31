@@ -2,12 +2,12 @@
 
 ---
 
-| Question   | Answer                                                            |
-| ---------- | ----------------------------------------------------------------- |
-| Writer     | Subham Sharma|
-| Editor     | Ritik Soni |
+| Question   | Answer |
+| ---------- | ------ |
+| Writer     | Subham Sharma - MCA 3 year|
+| Editor     | Ritik Soni|
 | Status     | Edited |
-| Plagiarism | [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
+| Plagiarism | 4%. [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
 
 ---
 

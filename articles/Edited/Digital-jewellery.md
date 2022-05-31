@@ -2,12 +2,12 @@
 
 ---
 
-| Question   | Answer                                                            |
-| ---------- | ----------------------------------------------------------------- |
-| Writer     |Avleen Kaur Bakshi - MCA I year |
-| Editor     | Ritik Soni |
+| Question   | Answer |
+| ---------- | ------ |
+| Writer     |Avleen Kaur Bakshi - MCA I year|
+| Editor     | Ritik Soni|
 | Status     | Edited |
-| Plagiarism | 7% [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
+| Plagiarism | 4%. [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
 
 ---
 
