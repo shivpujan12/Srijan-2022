@@ -80,7 +80,7 @@ It is also related to Cognitive Development.Gaming as a Career is always an exci
 They play Games like MINECRAFT, PUBG, FREE FIRE, etc.**
 
 ![imag2](https://github.com/shivpujan12/Srijan-2022/blob/main/imgs/cognitive_effects_2.jpg)
-![imag3](https://github.com/shivpujan12/Srijan-2022/blob/main/imgs/cognitive_effects_3.jpg)
+![imag3](https://github.com/shivpujan12/Srijan-2022/blob/main/imgs/congnitive_effects_3.jpg)
 
 There are plenty of jobs in the gaming industry in various fields.
 GAME Developers organized esports tournaments in which gamers participate and compete with others and win money, and exciting prizes.
