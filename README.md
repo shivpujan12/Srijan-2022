@@ -17,7 +17,7 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 |9. | Algorithmic Game Theory: A New Frontier in AI Research | Ritik | yes | Not Reviewed | No |
 |10. | A Peek into the Futuristic World of Space Technology | Shivpujan | Yes | Not Reviewed | No |
 |11. | The Benefits of Ubiquitous Computing | Shivpujan | yes | Not Reviewed | No |
-|12. | The Medical Advances in Gene Editing; <https://bramble-lentil-348.notion.site/The-Medical-Advances-in-Gene-Editing-21fb380ec0c8403996ec4c3dd4815ea0> |  | No | Not Reviewed | No |
+|12. | The Medical Advances in Gene Editing; <https://bramble-lentil-348.notion.site/The-Medical-Advances-in-Gene-Editing-21fb380ec0c8403996ec4c3dd4815ea0> | Shivpujan | No | Not Reviewed | No |
 |13. | Silent sound technology  | Shivpujan | yes | Not Reviewed | No |
 
 ## Other Content
