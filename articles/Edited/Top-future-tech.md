@@ -66,4 +66,4 @@ It is a virtual representation of physical objects that are designed to be exact
 
 Intelligence process Automation is the use of Artificial Intelligence and related emerging technologies to robotics processes such as computer vision, cognitive automation, and machine learning. According to McKinsey & company several industries that have experimented with Intelligence process automation have achieved impressive results with the automation of about 50 to 70% of tasks, 25 to 30% annual cost reduction and ROI in triple-digit %. It's safe to say the benefits of Intelligence process Automation are a significant implication of the returns amplification of the returns RPA offers companies like CAPGEMINI, IBM, Deloitte, SAP etc are reading deploying Intelligence process Automation their organization.
 
-![AI](https://github.com/shivpujan12/Srijan-2022/blob/main/imgs/AI.png)
+![AI](https://github.com/shivpujan12/Srijan-2022/blob/main/imgs/AI1.png)
