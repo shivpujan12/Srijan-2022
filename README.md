@@ -6,12 +6,12 @@ Progress of Content
 
 S.No.   |         Name            | Editor assigned   | Edited | Status/Comments   | Conclusion
 :------:|:----------------------- |:-----------------:|:------:|:-----------------:|:------------:
-|1. | ART of Android  |  | No | Not Reviewed | No |
+|1. | ART of Android  | Ritik | yes | Not Reviewed | No |
 |2. | Data Science in Biology: Personalized Medicine | Shivpujan | yes  | Not Reviewed | No |
 |3. | Digital Jwellery | Ritik | yes | No Reviewed | No |
 |4. | Virtual Reality: The Future |  | No | Not Reviewed | No |
 |5. | Top Future Technologies 2022 | Ritik | yes | Not Reviewed | No  |
-|6. | Cognitive Effects of Video Games | Shivpujan | No | Not Reviewed | No |
+|6. | Cognitive Effects of Video Games | Shivpujan | yes | Not Reviewed | No |
 |7. | Finding Anthropomorphic faces | Shivpujan | yes | Not Reviewed | No |
 |8. | Discovery of World’s first artificial organic Neuron |  | No | Not Reviewed | No |
 |9. | Algorithmic Game Theory: A New Frontier in AI Research | Ritik | yes | Not Reviewed | No |
