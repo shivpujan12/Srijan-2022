@@ -8,13 +8,13 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 :------:|:----------------------- |:-----------------:|:------:|:-----------------:|:------------:
 |1. | ART of Android  |  | No | Not Reviewed | No |
 |2. | Data Science in Biology: Personalized Medicine | Shivpujan | yes  | Not Reviewed | No |
-|3. | Digital Jwellery | Ritik | No | No Reviewed | No |
+|3. | Digital Jwellery | Ritik | yes | No Reviewed | No |
 |4. | Virtual Reality: The Future |  | No | Not Reviewed | No |
-|5. | Top Future Technologies 2022 |  | No | Not Reviewed | No  |
+|5. | Top Future Technologies 2022 | Ritik | yes | Not Reviewed | No  |
 |6. | Cognitive Effects of Video Games |  | No | Not Reviewed | No |
-|7. | Finding Anthropomorphic faces | Shivpujan | No | Not Reviewed | No |
+|7. | Finding Anthropomorphic faces | Shivpujan | yes | Not Reviewed | No |
 |8. | Discovery of World’s first artificial organic Neuron |  | No | Not Reviewed | No |
-|9. | Algorithmic Game Theory: A New Frontier in AI Research |  | No | Not Reviewed | No |
+|9. | Algorithmic Game Theory: A New Frontier in AI Research | Ritik | yes | Not Reviewed | No |
 |10. | A Peek into the Futuristic World of Space Technology |  | No | Not Reviewed | No |
 |11. | The Benefits of Ubiquitous Computing | Shivpujan | yes | Not Reviewed | No |
 |12. | The Medical Advances in Gene Editing; <https://bramble-lentil-348.notion.site/The-Medical-Advances-in-Gene-Editing-21fb380ec0c8403996ec4c3dd4815ea0> |  | No | Not Reviewed | No |
