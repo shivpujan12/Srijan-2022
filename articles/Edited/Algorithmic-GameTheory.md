@@ -4,8 +4,8 @@
 
 | Question   | Answer |
 | ---------- | ------ |
-| Writer     | Subham Sharma - MCA 3 year|
-| Editor     | Ritik Soni|
+| Writer     | SUBHAM SHARMA - MCA III year|
+| Editor     | RITIK SONI|
 | Status     | Edited |
 | Plagiarism | 4%. [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
 
