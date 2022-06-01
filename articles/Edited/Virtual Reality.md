@@ -11,7 +11,7 @@
 
 ---
 
-![img1]()
+![img1](https://github.com/shivpujan12/Srijan-2022/blob/main/imgs/virtual_reality_img1.jpg)
 
 **When we talk about Virtual Reality (VR), many of us think of science fiction films like 'Minority Report'. However, the truth is that nowadays, this technology completely blends in with our daily lives. VR technology is a growing force beyond entertainment and an important tool in education, science, commerce, manufacturing, and more.**
 
