@@ -7,7 +7,7 @@
 | Writer     | SUBHAM SHARMA - MCA III year|
 | Editor     | RITIK SONI|
 | Status     | Edited |
-| Plagiarism | 4%. [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
+| Plagiarism | 0%. [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
 
 ---
 
