@@ -7,7 +7,7 @@
 | Writer     | Sandeep sahu - MCA I year |
 | Editor     | Shivpujan yadav |
 | Status     | Edited |
-| Plagiarism | 4%. [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
+| Plagiarism | 89%. [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
 
 ---
 

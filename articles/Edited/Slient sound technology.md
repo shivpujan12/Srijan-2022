@@ -7,7 +7,7 @@
 | Writer     | Praveen kumar - MCA 1st year|
 | Editor     | Shivpujan yadav|
 | Status     | Edited |
-| Plagiarism | 4%. [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
+| Plagiarism | 16%. [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
 
 ---
 

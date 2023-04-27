@@ -7,7 +7,7 @@
 | Writer     | AMANDEEP VIRDHI - MCA 1 year|
 | Editor     | Shivpujan yadav|
 | Status     | Edited |
-| Plagiarism | 4%. [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
+| Plagiarism | 3%. [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
 
 ---
 
