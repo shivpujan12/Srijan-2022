@@ -15,7 +15,7 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 |7. | Finding Anthropomorphic faces | Shivpujan | yes | Reviewed | No |
 |8. | Discovery of World’s first artificial organic Neuron | Ritik | yes | Reviewed | No |
 |9. | Algorithmic Game Theory: A New Frontier in AI Research | Ritik | yes | Reviewed | No |
-|10. | A Peek into the Futuristic World of Space Technology | Shivpujan | Yes | Not Reviewed | No |
+|10. | A Peek into the Futuristic World of Space Technology | Shivpujan | Yes | Reviewed | No |
 |11. | The Benefits of Ubiquitous Computing | Shivpujan | yes | Reviewed | No |
 |12. | The Medical Advances in Gene Editing | Shivpujan | yes | Not Reviewed | No |
 |13. | Silent sound technology  | Shivpujan | yes | Reviewed | No |
