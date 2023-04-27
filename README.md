@@ -10,7 +10,7 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 |2. | Data Science in Biology: Personalized Medicine | Shivpujan | yes  | Reviewed | No |
 |3. | Digital Jwellery | Ritik | yes | Reviewed | No |
 |4. | Virtual Reality: The Future | shivpujan | yes | Reviewed | No |
-|5. | Top Future Technologies 2022 | Ritik | yes | Not Reviewed | No  |
+|5. | Top Future Technologies 2022 | Ritik | yes | Reviewed | No  |
 |6. | Cognitive Effects of Video Games | Shivpujan | yes | Reviewed | No |
 |7. | Finding Anthropomorphic faces | Shivpujan | yes | Reviewed | No |
 |8. | Discovery of World’s first artificial organic Neuron | Ritik | yes | Reviewed | No |
