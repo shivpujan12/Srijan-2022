@@ -8,7 +8,7 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 :------:|:----------------------- |:-----------------:|:------:|:-----------------:|:------------:
 |1. | ART of Android  | Ritik | yes | Reviewed | No |
 |2. | Data Science in Biology: Personalized Medicine | Shivpujan | yes  | Reviewed | No |
-|3. | Digital Jwellery | Ritik | yes | No Reviewed | No |
+|3. | Digital Jwellery | Ritik | yes | Reviewed | No |
 |4. | Virtual Reality: The Future | shivpujan | yes | Not Reviewed | No |
 |5. | Top Future Technologies 2022 | Ritik | yes | Not Reviewed | No  |
 |6. | Cognitive Effects of Video Games | Shivpujan | yes | Not Reviewed | No |
