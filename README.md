@@ -18,7 +18,7 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 |10. | A Peek into the Futuristic World of Space Technology | Shivpujan | Yes | Not Reviewed | No |
 |11. | The Benefits of Ubiquitous Computing | Shivpujan | yes | Not Reviewed | No |
 |12. | The Medical Advances in Gene Editing | Shivpujan | yes | Not Reviewed | No |
-|13. | Silent sound technology  | Shivpujan | yes | Not Reviewed | No |
+|13. | Silent sound technology  | Shivpujan | yes | Reviewed | No |
 
 ## Other Content
 
