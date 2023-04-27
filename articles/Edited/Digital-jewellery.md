@@ -7,7 +7,7 @@
 | Writer     |AVLEEN KAUR BAKSHI - MCA I year|
 | Editor     | RITIK SONI|
 | Status     | Edited |
-| Plagiarism | 4%. [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
+| Plagiarism | 2%. [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
 
 ---
 
