@@ -7,7 +7,7 @@
 | Writer     | Rashmi Mishra - MSc 2nd year|
 | Editor     | Shivpujan yadav|
 | Status     | Edited |
-| Plagiarism | 4%. [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
+| Plagiarism | 2%. [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
 
 ---
 
