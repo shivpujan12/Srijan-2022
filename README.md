@@ -11,7 +11,7 @@ S.No.   |         Name            | Editor assigned   | Edited | Status/Comments
 |3. | Digital Jwellery | Ritik | yes | Reviewed | No |
 |4. | Virtual Reality: The Future | shivpujan | yes | Reviewed | No |
 |5. | Top Future Technologies 2022 | Ritik | yes | Not Reviewed | No  |
-|6. | Cognitive Effects of Video Games | Shivpujan | yes | Not Reviewed | No |
+|6. | Cognitive Effects of Video Games | Shivpujan | yes | Reviewed | No |
 |7. | Finding Anthropomorphic faces | Shivpujan | yes | Reviewed | No |
 |8. | Discovery of World’s first artificial organic Neuron | Ritik | yes | Reviewed | No |
 |9. | Algorithmic Game Theory: A New Frontier in AI Research | Ritik | yes | Reviewed | No |
