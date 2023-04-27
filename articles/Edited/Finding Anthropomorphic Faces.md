@@ -7,7 +7,7 @@
 | Writer     | Dipesh Joshi - MCA 2st year|
 | Editor     | Shivpujan yadav|
 | Status     | Edited |
-| Plagiarism | 4%. [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
+| Plagiarism | 3%. [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
 
 ---
 
