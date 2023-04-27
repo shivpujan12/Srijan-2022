@@ -7,7 +7,7 @@
 | Writer     |Ritik Soni - MCA 1st year|
 | Editor     | Shivpujan yadav|
 | Status     | Edited |
-| Plagiarism | 4%. [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
+| Plagiarism | 2%. [Report](https://github.com/shivpujan12/Srijan-2022/blob/main/articles/plagReports/)|
 
 ---
 The key idea of personalized medicine is to base medicinal decisions on individual patients’ characteristics rather than on the population average. Personalized medicine, also known as precision medicine, is using genetics or other biomarker information to make decisions about patients. Personalized medicine is a medical approach in which patients are classified based on their disease subtype, risk prognosis, or treatment response using a specialized diagnostic test. The key idea is to make medical decisions based on individual patient characteristics, including biomarkers, rather than on averages over the whole population. Biomarkers are termed for any measurable quantity or score which can be used as a basis to classify patients (e.g., molecular markers, genomic alterations, disease severity scores, lifestyle characteristics, etc). The main advantages of personalized medicine could be better medication effectiveness, reduction of adverse events, early disease diagnosis and prevention.
